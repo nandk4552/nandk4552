@@ -95,15 +95,15 @@
 <table align="left">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandk4552&show_icons=true&locale=en&layout=compact" alt="nandk4552" style="width: 100%; height: 200px; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandk4552&show_icons=true&locale=en&layout=compact&theme=dark" alt="nandk4552" style="width: 100%; height: 200px; margin: 10px;">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nandk4552&show_icons=true&locale=en" alt="nandk4552" style="width: 100%; margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=nandk4552&show_icons=true&locale=en&theme=dark" alt="nandk4552" style="width: 100%; margin: 10px;">
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandk4552&" alt="nandk4552" style="width: 100%; margin: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandk4552&theme=dark" alt="nandk4552" style="width: 100%; margin: 10px;">
     </td>
   </tr>
 </table>
