@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **Microservices Architecture**
 
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 
